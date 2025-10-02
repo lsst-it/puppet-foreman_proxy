@@ -20,27 +20,27 @@
   "dependencies": [
     {
       "name": "theforeman/dns",
-      "version_requirement": ">= 8.1.0 < 10.0.0"
+      "version_requirement": ">= 11.0.0 < 12.0.0"
     },
     {
       "name": "theforeman/dhcp",
-      "version_requirement": ">= 6.1.0 < 9.0.0"
+      "version_requirement": ">= 6.1.0 < 10.0.0"
     },
     {
       "name": "theforeman/foreman",
-      "version_requirement": ">= 10.0.0 < 20.0.0"
+      "version_requirement": ">= 19.0.0 < 28.0.0"
     },
     {
       "name": "theforeman/tftp",
-      "version_requirement": ">= 3.0.0 < 8.0.0"
+      "version_requirement": ">= 3.0.0 < 11.0.0"
     },
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 4.19.0 < 9.0.0"
+      "version_requirement": ">= 9.0.0 < 10.0.0"
     },
     {
       "name": "puppet/extlib",
-      "version_requirement": ">= 3.0.0 < 7.0.0"
+      "version_requirement": ">= 3.0.0 < 8.0.0"
     },
     {
       "name": "richardc/datacat",
